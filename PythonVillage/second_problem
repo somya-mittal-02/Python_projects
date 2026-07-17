@@ -1,0 +1,5 @@
+#PROBLEM 2 HYPOTENUS FINDING 
+a= 926
+b= 987
+c= a**2 + b**2
+print(c)
