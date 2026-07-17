@@ -1,0 +1,5 @@
+#second problem transcribing 
+from Bio.Seq import Seq
+DNA= Seq("GATGGAACTTGACTACGTAAATT")
+print(DNA.transcribe())
+
