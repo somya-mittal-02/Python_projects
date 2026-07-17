@@ -1,0 +1,8 @@
+#--PROBLEM 3 STRING BY POSITION--(called STRING SLICING)
+onefirstposition= 15
+onesecposition= 20
+
+otherfirst= 93
+othersec= 103
+String= "HlvhZzTkfqgnvveCastor3HybrTEtczpGmrXJvdqdnDGp4KLiNeHmYGGcuX3sgzcXpoLihaanGjVlPt6NjPb3yOReUuoGserricollisO8pZUJQrOaaqv1Qux3kOfKXRHa0C4Pnh567idFh3OK4IJEIeOQiCdQ9oT."
+print(f'{String[onefirstposition:onesecposition + 1]} {String[otherfirst:othersec +1]}')
